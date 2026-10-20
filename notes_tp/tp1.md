@@ -1,5 +1,5 @@
 
-l**Auteur : Valentin Minnebo**
+**Auteur : Valentin Minnebo**
 
 ---
 
